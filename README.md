@@ -1,8 +1,10 @@
 <div align="center">
 
-# HELLO EVERYONE , I'm S ABISHEAK
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=0:4facfe,100:00f2fe&text=S%20ABISHEAK&fontColor=FFFFFF&fontSize=70&fontAlignY=40&animation=fadeIn&rotate=0&stroke=FFFFFF&strokeWidth=1&desc=LLM%20·%20Agentic%20AI%20·%20NLP&descSize=20" width="80%"/>
+</p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&letterSpacing=2&duration=2500&pause=1000&color=58A6FF&center=true&width=600&height=100&lines=Building+Agentic+AI+Systems;LLM+Engineer+in+the+Making;LangChain+%C2%B7+Hugging+Face+%C2%B7+Open+Source)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&letterSpacing=2&duration=2500&pause=1000&color=58A6FF&center=true&width=600&height=50&lines=Building+Agentic+AI+Systems;LLM+Engineer+in+the+Making;LangChain+%C2%B7+Hugging+Face+%C2%B7+Open+Source)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/s-abisheak-cit/)
 [![Hugging Face](https://img.shields.io/badge/🤗%20Hugging%20Face-FFD21E?style=for-the-badge&logoColor=black)](https://huggingface.co/S-ABISHEAK)
