@@ -10,24 +10,40 @@
 
 </div>
 
+
 ## 💫 About Me
 
-I'm a **Computer Science undergrad** deeply invested in the intersection of **Large Language Models, Agentic AI, and NLP** moving beyond surface-level usage toward genuine understanding of how these systems work under the hood.
+I'm a Computer Science undergraduate exploring the intersection of:
 
+- Large Language Models (LLMs)
+- Agentic AI Systems
+- Retrieval-Augmented Generation (RAG)
+- Natural Language Processing (NLP)
 
-**🔭 Currently working on**
+My focus is not just using AI systems, but understanding how they work under the hood  from tokenization mechanics to transformer internals, alignment strategies, and scalable inference systems.
+
+## 🔭 Currently Working On
+
 - Fine-tuning and aligning Large Language Models
-- Building multi-agent frameworks and autonomous AI pipelines
-- Retrieval-Augmented Generation (RAG) architectures
-- NLP systems : from tokenization fundamentals to transformer internals
+- Building multi-agent systems and autonomous AI workflows
+- Designing Retrieval-Augmented Generation (RAG) pipelines
+- Exploring NLP foundations and transformer architectures
 
-**🌱 Actively learning**
-- LLM evaluation, safety & governance
-- MLOps : model versioning, deployment, and monitoring at scale
+## 🌱 Currently Learning
+
+- LLM evaluation, safety, and governance
+- MLOps: versioning, deployment, and monitoring
 - Cloud-native AI infrastructure on AWS
+- Efficient inference and scalable serving systems
 
-**⚡ What drives me**
-I believe in depth over breadth understanding *why* things work, not just *that* they work. Currently escaping vibe-coding culture, one paper at a time.
+## ⚡ Philosophy
+
+I value depth over breadth.
+
+Understanding *why* systems work matters more to me than simply making them work.
+
+Currently escaping vibe-coding culture one research paper at a time.
+
 
 
 ## TECH & TOOLS
