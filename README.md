@@ -10,31 +10,25 @@
 
 </div>
 
-
-
 ## 💫 About Me
 
-I'm a **Computer Science undergrad** deeply invested in the intersection of **Large Language Models, Agentic AI, and NLP** — moving beyond surface-level usage toward genuine understanding of how these systems work under the hood.
+I'm a **Computer Science undergrad** deeply invested in the intersection of **Large Language Models, Agentic AI, and NLP** moving beyond surface-level usage toward genuine understanding of how these systems work under the hood.
 
----
 
 **🔭 Currently working on**
 - Fine-tuning and aligning Large Language Models
 - Building multi-agent frameworks and autonomous AI pipelines
 - Retrieval-Augmented Generation (RAG) architectures
-- NLP systems — from tokenization fundamentals to transformer internals
+- NLP systems : from tokenization fundamentals to transformer internals
 
 **🌱 Actively learning**
 - LLM evaluation, safety & governance
-- MLOps — model versioning, deployment, and monitoring at scale
+- MLOps : model versioning, deployment, and monitoring at scale
 - Cloud-native AI infrastructure on AWS
 
 **⚡ What drives me**
-I believe in depth over breadth — understanding *why* things work, not just *that* they work. Currently escaping vibe-coding culture, one paper at a time.
+I believe in depth over breadth understanding *why* things work, not just *that* they work. Currently escaping vibe-coding culture, one paper at a time.
 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/s-abisheak-cit) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sakabisheak@gmail.com) 
 
 ## TECH & TOOLS
 <table>
@@ -77,9 +71,6 @@ I believe in depth over breadth — understanding *why* things work, not just *t
 </table>
 
 
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ABISHEAK-std&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
