@@ -1,27 +1,87 @@
-# 💫 About Me:
-I am a passionate AGENTIC AI and Machine Learning practitioner specializing in Natural Language Processing (NLP), Generative AI systems, with hands-on experience in building intelligent, scalable solutions on AWS Cloud Infrastructure.<br><br>My work focuses on designing and deploying end-to-end AI pipelines, integrating deep learning models, automation frameworks, and cloud-native services to solve real-world problems.<br><br>Current Focus<br><br>Deep diving into advanced NLP and Deep Learning architectures<br><br>Building Generative AI and Autonomous Agent systems<br><br>Developing scalable AI workflows using AWS services<br><br>Exploring LLM fine-tuning, RAG models, and multi-agent frameworks<br><br>Implementing AI-powered automation pipelines
+<div align="center">
+
+# HELLO EVERYONE , I'm S ABISHEAK
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&letterSpacing=2&duration=2500&pause=1000&color=58A6FF&center=true&width=600&height=100&lines=Building+Agentic+AI+Systems;LLM+Engineer+in+the+Making;LangChain+%C2%B7+Hugging+Face+%C2%B7+Open+Source)](https://git.io/typing-svg)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/s-abisheak-cit/)
+[![Hugging Face](https://img.shields.io/badge/🤗%20Hugging%20Face-FFD21E?style=for-the-badge&logoColor=black)](https://huggingface.co/S-ABISHEAK)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sakabisheak@gmail.com)
+
+</div>
+
+
+
+## 💫 About Me
+
+I'm a **Computer Science undergrad** deeply invested in the intersection of **Large Language Models, Agentic AI, and NLP** — moving beyond surface-level usage toward genuine understanding of how these systems work under the hood.
+
+---
+
+**🔭 Currently working on**
+- Fine-tuning and aligning Large Language Models
+- Building multi-agent frameworks and autonomous AI pipelines
+- Retrieval-Augmented Generation (RAG) architectures
+- NLP systems — from tokenization fundamentals to transformer internals
+
+**🌱 Actively learning**
+- LLM evaluation, safety & governance
+- MLOps — model versioning, deployment, and monitoring at scale
+- Cloud-native AI infrastructure on AWS
+
+**⚡ What drives me**
+I believe in depth over breadth — understanding *why* things work, not just *that* they work. Currently escaping vibe-coding culture, one paper at a time.
 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/s-abisheak-cit) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sakabisheak@gmail.com) 
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ABISHEAK-std&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ABISHEAK-std&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ABISHEAK-std&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+## TECH & TOOLS
+<table>
+  <tr>
+    <td style="padding: 10px 20px; white-space: nowrap"><b>LLM & Agentic AI</b></td>
+    <td style="padding: 10px 20px">
+      <img src="https://skillicons.dev/icons?i=py,fastapi" />
+    </td>
+  </tr>
+  <tr>
+    <td style="padding: 10px 20px; white-space: nowrap"><b>ML & AI</b></td>
+    <td style="padding: 10px 20px">
+      <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn" />
+    </td>
+  </tr>
+  <tr>
+    <td style="padding: 10px 20px; white-space: nowrap"><b>Web & Backend</b></td>
+    <td style="padding: 10px 20px">
+      <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express" />
+    </td>
+  </tr>
+  <tr>
+    <td style="padding: 10px 20px; white-space: nowrap"><b>Databases</b></td>
+    <td style="padding: 10px 20px">
+      <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,redis,elasticsearch" />
+    </td>
+  </tr>
+  <tr>
+    <td style="padding: 10px 20px; white-space: nowrap"><b>Cloud & DevOps</b></td>
+    <td style="padding: 10px 20px">
+      <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,git,linux" />
+    </td>
+  </tr>
+  <tr>
+    <td style="padding: 10px 20px; white-space: nowrap"><b>Languages</b></td>
+    <td style="padding: 10px 20px">
+      <img src="https://skillicons.dev/icons?i=py,cpp,java,js" />
+    </td>
+  </tr>
+</table>
+
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ABISHEAK-std&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ABISHEAK-std&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=ABISHEAK-std&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
