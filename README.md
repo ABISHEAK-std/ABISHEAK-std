@@ -51,38 +51,38 @@ Currently escaping vibe-coding culture one research paper at a time.
 ## TECH & TOOLS
 <table>
   <tr>
-    <td style="padding: 10px 20px; white-space: nowrap"><b>LLM & Agentic AI</b></td>
-    <td style="padding: 10px 20px">
+    <td style="padding: 20px 30px; white-space: nowrap"><b>LLM & Agentic AI</b></td>
+    <td style="padding: 20px 30px">
       <img src="https://skillicons.dev/icons?i=py,fastapi" />
     </td>
   </tr>
   <tr>
-    <td style="padding: 10px 20px; white-space: nowrap"><b>ML & AI</b></td>
-    <td style="padding: 10px 20px">
+    <td style="padding: 20px 30px; white-space: nowrap"><b>ML & AI</b></td>
+    <td style="padding: 20px 30px">
       <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn" />
     </td>
   </tr>
   <tr>
-    <td style="padding: 10px 20px; white-space: nowrap"><b>Web & Backend</b></td>
-    <td style="padding: 10px 20px">
+    <td style="padding: 20px 30px; white-space: nowrap"><b>Web & Backend</b></td>
+    <td style="padding: 20px 30px">
       <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express" />
     </td>
   </tr>
   <tr>
-    <td style="padding: 10px 20px; white-space: nowrap"><b>Databases</b></td>
-    <td style="padding: 10px 20px">
+    <td style="padding: 20px 30px; white-space: nowrap"><b>Databases</b></td>
+    <td style="padding: 20px 30px">
       <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,redis,elasticsearch" />
     </td>
   </tr>
   <tr>
-    <td style="padding: 10px 20px; white-space: nowrap"><b>Cloud & DevOps</b></td>
-    <td style="padding: 10px 20px">
+    <td style="padding: 20px 30px; white-space: nowrap"><b>Cloud & DevOps</b></td>
+    <td style="padding: 20px 30px">
       <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,git,linux" />
     </td>
   </tr>
   <tr>
-    <td style="padding: 10px 20px; white-space: nowrap"><b>Languages</b></td>
-    <td style="padding: 10px 20px">
+    <td style="padding: 20px 30px; white-space: nowrap"><b>Languages</b></td>
+    <td style="padding: 20px 30px">
       <img src="https://skillicons.dev/icons?i=py,cpp,java,js" />
     </td>
   </tr>
