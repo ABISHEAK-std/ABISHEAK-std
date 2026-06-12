@@ -53,37 +53,37 @@ Currently escaping vibe-coding culture one research paper at a time.
   <tr>
     <td style="padding: 20px 30px; white-space: nowrap"><b>LLM & Agentic AI</b></td>
     <td style="padding: 20px 30px">
-      <img src="https://skillicons.dev/icons?i=py,fastapi" />
+      <img src="https://skillicons.dev/icons?i=py,fastapi" style="height: 70px;"/>
     </td>
   </tr>
   <tr>
     <td style="padding: 20px 30px; white-space: nowrap"><b>ML & AI</b></td>
     <td style="padding: 20px 30px">
-      <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn" />
+      <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn" style="height: 70px;" />
     </td>
   </tr>
   <tr>
     <td style="padding: 20px 30px; white-space: nowrap"><b>Web & Backend</b></td>
     <td style="padding: 20px 30px">
-      <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express" />
+      <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express" style="height: 70px;" />
     </td>
   </tr>
   <tr>
     <td style="padding: 20px 30px; white-space: nowrap"><b>Databases</b></td>
     <td style="padding: 20px 30px">
-      <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,redis,elasticsearch" />
+      <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,redis,elasticsearch" style="height: 70px;" />
     </td>
   </tr>
   <tr>
     <td style="padding: 20px 30px; white-space: nowrap"><b>Cloud & DevOps</b></td>
     <td style="padding: 20px 30px">
-      <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,git,linux" />
+      <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,git,linux" style="height: 70px;"/>
     </td>
   </tr>
   <tr>
     <td style="padding: 20px 30px; white-space: nowrap"><b>Languages</b></td>
     <td style="padding: 20px 30px">
-      <img src="https://skillicons.dev/icons?i=py,cpp,java,js" />
+      <img src="https://skillicons.dev/icons?i=py,cpp,java,js" style="height: 70px;" />
     </td>
   </tr>
 </table>
